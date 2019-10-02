@@ -6,3 +6,7 @@ https://www.vogons.org/viewtopic.php?f=41&t=49160<br/>
 I have not found Dosbox for mac with pixel perfect so i compiled it myself.<br/>
 Maybe you will found it usefull.<br/>
 
+Screenshots:
+native Dosbox: https://monosnap.com/file/shRBAdtxFs8P1VEXzFgvMOJqbQMDge
+Dosbox with pp: https://monosnap.com/file/uL9yDooh8K8LXEUjcvUmuqGEYGpdLm
+
